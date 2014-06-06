@@ -1,0 +1,19 @@
+<folder name="~" path="~" type="folder">
+
+  <folder name="documents" path="~/documents" type="folder">
+    <file name="resume.txt" type="file" path="~/documents/resume.txt" location="docs/resume.txt"></file>
+    <file name="interests.txt" type="file" path="~/documents/interests.txt" location="docs/interests.txt"></file>
+  </folder>
+
+  <folder name="other" path="~/other" type="folder">
+    <file name="DonutDash.txt" path="~/other/DonutDash.txt" type="file" location="docs/donutdash.txt"></file>
+    <file name="Booth.txt" path="~/other/Booth.txt" type="file" location="docs/booth.txt"></file>
+  </folder>
+  
+  <folder name="projects" path="~/projects" type="folder">
+    <file name="iStalk.txt" path="~/projects/iStalk.txt" type="file" location="docs/iStalkWriteup.txt"></file>
+    <file name="TerraNivium.txt" path="~/projects/TerraNivium.txt" type="file" location="docs/terraniviumWriteup.txt"></file>
+    <file name="BashWebsite.txt" path="~/projects/BashWebsite.txt" type="file" location="docs/bashwebsiteWriteup.txt"></file>
+  </folder>
+  
+</folder>

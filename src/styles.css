@@ -1,0 +1,13 @@
+input {
+  border-style: none;
+  background-color: black;
+  color: white;
+  font-family:"Courier New",Courier;
+  font-size: 12pt;
+  outline: none;
+  width: 300pt;
+}
+
+#oldContent {
+  line-height:140%;
+}

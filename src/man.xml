@@ -1,0 +1,33 @@
+<output>
+  <command name="gui">
+    <line>USAGE: gui</line>
+    <line>This will take you to a GUI version of my website.</line>
+  </command>
+  <command name="help">
+    <line>USAGE: help</line>
+    <line>Prints out the available commands</line>
+  </command>
+  <command name="man">
+    <line>USAGE: man [command]</line>
+    <line>Get more information about a command.</line>
+  </command>
+  <command name="emacs">
+    <line>Use 'vim'</line>
+  </command>
+  <command name="cd">
+    <line>USAGE: cd [dirName]</line>
+    <line>Change your current working directory.</line>
+  </command>
+  <command name="ls">
+    <line>USAGE: ls</line>
+    <line>List the contents of your current working directory</line>
+  </command>
+  <command name="quit">
+    <line>USAGE: gui</line>
+    <line>This will take you to a GUI version of my website</line>  
+  </command>
+  <command name="cat">
+    <line>USAGE: cat [txt file]</line>
+    <line>This will let you read text files</line>
+  </command>
+</output>

@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <title>Brian Duff's Home Page</title>
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript" src="scripts.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+  <body bgcolor="black" onClick=refocus() onUnclick=refocus()>
+    <div id='oldContent' style="font-family:Courier; color:white; font-size: 12pt">
+      Brian W Duff<br>
+      Carnegie Mellon University<br>
+      Electrical and Computer Engineering 2013<br>
+      <br>
+      I guess you do not have JS enabled.<br>
+      Check out the <a href='gui.html'>less interesting version</a><br>
+    </div>
+    <div id="currentLine" style="font-family:courier; color:white; font-size: 12pt">
+      <form id="inputForm" action="#" onSubmit="submitEnter(); return false;">
+        guest@brianwduff:<span id='cur_path'>~</span>>
+        <input id='userInput' type="text" spellcheck="false" autocomplete="off" onKeyDown="keyCatch(event)" />
+      </form>
+    </div>
+  </body>
+</html>

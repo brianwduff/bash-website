@@ -1,0 +1,1 @@
+This website is a project that I programmed during my junior year of college. It is mostly JavaScript (jQuery and Ajax) backed by XML. Be sure to try out tab completion and try not to get too annoyed. There is of course, a <a href="/gui.html">GUI version</a>.

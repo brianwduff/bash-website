@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Output>
+  <welcome>
+    <line>________________________________________</line>
+    <line>Welcome to Brian Duff's homepage</line>
+    <line>For a &lt;a href='gui.html'&gt;GUI version&lt;/a&gt;, type 'gui'</line>
+    <line>For help, type 'help'</line>
+    <line>________________________________________</line>
+  </welcome>
+  <help>
+    <line>Available commands:</line>
+    <line>help  - Bring up this dialog</line>
+    <line>gui   - Get an easier to use version of this website</line>
+    <line>man   - Get more information about a command</line>
+    <line>ls    - List the contents of your current directory</line>
+    <line>cd    - Change your working directory</line>
+    <line>cat   - Print the contents of a text file</line>
+    <line>For more information about a command try 'man command'</line>
+  </help>
+  <man>
+    <line>USAGE: man [command]</line>
+    <line>Get more information about a command.</line>
+  </man>
+  <emacs>
+    <line>USAGE: emacs [text file]</line>
+    <line>Print out a text file to the terminal</line>  
+  </emacs>
+  <vim>
+    <line>USAGE: vim [text file]</line>
+    <line>Print out a text file to the terminal</line>
+  </vim>
+  <cd>
+    <line>USAGE: cd [directory]</line>
+    <line>Change your current directory. '..' is up a directory.</line>
+  </cd>
+  <cat>
+    <line>USAGE: cat [text file]</line>
+    <line>Print out a text file to the terminal</line>  
+  </cat>
+</Output>

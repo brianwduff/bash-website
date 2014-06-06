@@ -1,0 +1,71 @@
+
+=========
+EDUCATION
+=========
+Carnegie Mellon University - Pittsburgh, Pa
+-Bachelor of Science in electrical and computer engineering - May 2013
+-GPA: 3.56/4.00
+
+Pittsford Mendon High School - Pittsford, NY
+-High School Diploma with Distinction - June 2009
+
+================
+Relevant Courses
+================
+Embedded System Design
+Intro to Computer Systems
+Fundamental Data Structures and Algorithms
+Electronic Devices and Analog Circuits
+Writing for the Professions
+
+========
+Projects
+========
+iStalk - Group project for Embedded System Design capstone
+-Employed C++ OpenCV libraries to implement facial recognition
+-Contributed to a Perl backend
+
+Terra Nivium - Web-based PHP game
+-Designed and programmed from scratch as a three-man team
+-Released a public beta and attracted forty players
+
+==========
+Leadership
+==========
+Lead Organizer of the Carnegie Mellon Donut Dash
+-Delegated to a committee, organized 60 volunteers
+-Brought in almost 200 runners and raised over $7,500 for charity
+
+======
+Skills
+======
+Programming Languages: C, Java, Matlab, Simulink, Perl, HTML, JavaScript, PHP, Arm Assembly, Verilog
+Software: Microsoft Word, PowerPoint, Excel
+
+==========
+Employment
+==========
+General Motors, Fuel Cell Activities - Rochester, NY - Summer 2011
+-Researched and applied signal processing techniques to fuel cells
+-Designed tests and models, scripted data analysis in Matlab/Simulink
+-Presented findings to campus executives
+
+Zweigle's Inc - Rochester, NY - Summer 2010
+-Worked with people from diverse backgrounds
+
+==========
+Activities
+==========
+Club Ultimate Frisbee, Carnegie Mellon University
+Sigma Alpha Epsilon Fraternity, Carnegie Mellon University
+AHEADD Mentor, Carnegie Mellon University
+
+======
+HONORS
+======
+Volunteer of the Month, AHEADD
+Dean's List, Carnegie Institute of Technology Fall 2009
+Dean's List, Carnegie Institute of Technology Fall 2011
+NSCAA High School Scholar All-East Region Team
+
+<a href="/docs/resumeMay12.pdf" target="_blank">PDF Version</a>
